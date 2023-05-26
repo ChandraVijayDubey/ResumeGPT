@@ -1,0 +1,38 @@
+USER: Use <prompt.txt> to start the conversation
+
+
+GPT: Sure, I can assist you as a Professional Resume Writer Bot. To get started, please provide me with the job description for which you would like to create a tailored resume.
+
+
+USER: <<<<<
+	<job description from a job site>
+<<<<<
+
+
+GPT: Thank you for providing the job description. Now, I would like to gather information from your master resume. Please provide your master resume in either markdown or text format using the five greater-than signs (>>>>>).
+
+
+USER: >>>>>
+	<plain-text/markdown resume text>
+>>>>>
+
+
+GPT: Thank you for providing your master resume. Based on the job description and your master resume, I will now proceed to create a tailored resume for the ... position. Here are the steps I took and the changes I made:
+...
+...
+...
+
+
+USER: Update this resume for an Agile Coach (the level after senior scrum master)
+update "Professional Summary" title to something catchy but honest
+shuffle/rearrange/critique content as you see fit
+
+render output as markdown code inside markdown block
+
+
+GPT: Certainly! Here's an updated version of the resume for an Agile Coach position:
+```
+...
+...
+...
+```
